@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Persistencia</string>
+
+    <string name="main.ll.tv.sharedpreferences">Almacenamiento por SharedPreferences</string>
+    <string name="main.ll.tv.interno">Almacenamiento Interno</string>
+    <string name="main.ll.tv.externo">Almacenamiento Externo</string>
+</resources>
